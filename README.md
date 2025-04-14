@@ -1,6 +1,12 @@
 # From Noise to Information: Reconstructing Quantum States from Wigner Functions
 
 <div align="center">
+<b>Yale Quantum Institute 2nd Place Grand Prize @ YQuantum 2025.</b>
+</div>
+
+Team Alice & Bobs ([Haadi Khan](https://github.com/Haadi-Khan), [Arul Rhik Mazumder](https://github.com/arulrhikm), [Tanmay Neema](https://github.com/tanmay3663), [Alice Wang](https://github.com/atxwang), [Ryan O'Farrell](https://github.com/ro-farrell))
+
+<div align="center">
   <img src="images/anb_logo.png" alt="Cat" width="150" />
 </div>
 <div align="center">
